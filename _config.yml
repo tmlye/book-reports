@@ -1,0 +1,71 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+gems: [jekyll-paginate]
+
+# Site settings
+title: "Book Reports"
+description: > # this means to ignore newlines until "email:"
+   These help me remember things
+
+email: se@saschaeglau.com
+#blog logo
+logo: "/book-reports/assets/images/logo.jpg"
+# blog cover
+cover: "cover.jpg"
+
+name: 'Sascha Eglau'
+author: 'Sascha Eglau'
+author_bio: ''
+author_image: "/book-reports/assets/images/author.jpg"
+
+paginate:	10
+
+url: "https://saschaeglau.com/book-reports"
+about_url: "https://saschaeglau.com"
+baseurl: "/book-reports"
+
+# social icons and sharing options
+social:
+  - icon: twitter
+    url:
+    desc:
+    share_url: https://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon: facebook
+    url:
+    desc:
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  # - icon:	github
+    # url:	https://github.com/dirkfabisch
+    # desc:	Fork me on github
+    # share_url:
+    # share_title:
+    # share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
+
+picture:
+    markup: "picture"
+    output: "assets/images"
+    source: "/upload/book-reports"
+    presets:
+        default:
+           ppi: [1, 1.5]
+           attr:
+             itemprop: "image"
+           source_medium:
+             media: "(min-width: 40em)"
+             width: "600"
+           source_default:
+             width: "300"
