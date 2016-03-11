@@ -4,9 +4,6 @@ title:  "Steven Johnson - Where Good Ideas Come From"
 date:   2016-01-22 14:34:25
 categories: innovation
 ---
-Steven Johnson - Where good ideas come from
-===========================================
-
 Please note that most of this report is written in an objective way, meaning that I do not automatically agree with everything that is stated here.
 
 Questions The Book Answers
@@ -32,7 +29,7 @@ My Personal Rating
 ==================
 
 Without the great stories the author tells to illustrate his points, this book would be a mere 2/5.
-If you're just interested in the content, don't read this book. The following summary and this TED talk(http://www.ted.com/talks/steven_johnson_where_good_ideas_come_from) will be enough.
+If you're just interested in the content, don't read this book. The following summary and [this TED talk](http://www.ted.com/talks/steven_johnson_where_good_ideas_come_from) will be enough.
 What makes this book worth reading are the stories and anecdotes, which earn it a 4/5.
 
 Summary By Chapter
