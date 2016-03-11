@@ -25,6 +25,8 @@ url: "https://saschaeglau.com/book-reports"
 about_url: "https://saschaeglau.com"
 baseurl: "/book-reports"
 
+permalink: /:title.html
+
 # social icons and sharing options
 social:
   - icon: twitter
@@ -53,7 +55,7 @@ social:
 #    desc:	Add me on google+
 #    share_url:
 #    share_title:
-#    share_link:
+#    share_lin
 
 picture:
     markup: "picture"
